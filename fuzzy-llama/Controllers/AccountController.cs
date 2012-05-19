@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Security;
-using fuzzy_llama.Models;
+using fuzzy_llama.Core.Models;
 
 namespace fuzzy_llama.Controllers
 {
